@@ -3,7 +3,12 @@ Id: #
 class: .
 */
 
-#myTitle {
+body {
+  display:flex;
+  flex-direction: columnl
+}
+
+.Title {
   color: blue;
   padding:10px;
 }
