@@ -7,5 +7,3 @@ function showAiSection() {
   homepageSection.style.display = 'none';
   vsAISection.style.display = 'flex';
 }
-
-playButton.addEventListener("click", showAiSection);
