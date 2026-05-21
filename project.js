@@ -8,5 +8,4 @@ function showAiSection() {
   vsAISection.style.display = 'flex';
 }
 
-// FIX: Listen for the click eve
 playButton.addEventListener("click", showAiSection);
