@@ -5,12 +5,26 @@ class: .
 
 body {
   display: flex; 
-  flex-direction: column; 
-  justify-content: center;
-  
 }
 
 .Title {
   color: blue;
   padding:10px;
 }
+
+#homepage {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  
+}
+
+#vsAI {
+  display:none;
+}
+
+#vsPlayer {
+  display: none;
+}
+
+
